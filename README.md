@@ -12,9 +12,9 @@
 
 ## 🛠 Skills & Tools  
 
-**Languages & Frameworks:** HTML | CSS | JavaScript | React | Vue.js | Node.js | C#  | Styled Components  
-**Design & Prototyping:** Figma | Illustrator
-**Databases & DevOps:**  Prisma | MySQL | Railway | Cloudflare  
+- **Languages & Frameworks:** HTML | CSS | JavaScript | React | Vue.js | Node.js | C#  | Styled Components  
+- **Design & Prototyping:** Figma | Illustrator
+- **Databases & DevOps:**  Prisma | MySQL | Railway | Cloudflare  
 
 ---
 
@@ -26,7 +26,7 @@
 ---
 
 ## 💡 Featured Project: **Chimptok**  
-🚀 Goal-setting & tracking platform to crush tasks and swing through progress like a pro!  
+Goal-setting & tracking platform to crush tasks and swing through progress like a pro!  
 
 **What Chimptok Offers:**  
 - **Set Goals:** Clear deadlines and measurable targets.  
@@ -39,4 +39,3 @@
 - **Web Repo**: [Chimptok Web](https://github.com/devLeticia/chimptok-website-nextjs)
 - **Frontend App**: [Chimptok Frontend](https://github.com/devLeticia/chimptok)
 - **Backend App**: [Chimptok Backend](https://github.com/devLeticia/chimptok-server)
-Click the links or see pinned repos bellow?
