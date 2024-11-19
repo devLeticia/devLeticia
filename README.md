@@ -1,6 +1,6 @@
 # 👩‍💻 Letícia Gonçalves  
-🌐 **Portfolio:**  [www.leticiagoncalves.dev](www.leticiagoncalves.dev) \
-🐒 **Personal Project:** [www.chimptok.com](www.chimptok.com)\
+🌐 **Portfolio:** [https://www.leticiagoncalves.dev](https://www.leticiagoncalves.dev)\
+🐒 **Personal Project:** [https://www.chimptok.com](https://www.chimptok.com)\
 📧 **Email:** leticiagoncalves.tech@gmail.com
 ## 🌟 What I Do  
 
@@ -33,7 +33,7 @@ Goal-setting & tracking platform to crush tasks and swing through progress like 
 - **Timers & Progress:** Focus on tasks and track consistency.  
 - **Reports & Insights:** Get detailed stats on streaks, hours, and progress.  
 
-🌐 **Explore Chimptok:** [www.chimptok.com](www.chimptok.com)  
+🌐 **Explore Chimptok:** [https://www.chimptok.com](https://www.chimptok.com)  
 
 ## **Chimptok GitHub Repositories:**  
 - **Web Repo**: [Chimptok Web](https://github.com/devLeticia/chimptok-website-nextjs)
