@@ -36,6 +36,6 @@ Goal-setting & tracking platform to crush tasks and swing through progress like 
 🌐 **Explore Chimptok:** [https://www.chimptok.com](https://www.chimptok.com)  
 
 ## **Chimptok GitHub Repositories:**  
-- **Web Repo**: [Chimptok Web](https://github.com/devLeticia/chimptok-website-nextjs)
 - **Frontend App**: [Chimptok Frontend](https://github.com/devLeticia/chimptok)
 - **Backend App**: [Chimptok Backend](https://github.com/devLeticia/chimptok-server)
+- **Marketing Website**: [Chimptok Web](https://github.com/devLeticia/chimptok-website-nextjs)
