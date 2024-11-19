@@ -1,15 +1,7 @@
 # 👩‍💻 Letícia Gonçalves  
-
-**Building Digital Products from Design to Code!**  
-[www.leticiagoncalves.dev](www.leticiagoncalves.dev)  
-
-Hi, I’m Letícia Gonçalves! A software developer with a passion for building stunning, user-centered digital experiences. I specialize in:  
-
-💻 **Software Development**  
-🎨 **UI/UX Design**  
-
----
-
+🌐 **Portfolio:**  [www.leticiagoncalves.dev](www.leticiagoncalves.dev) \
+🐒 **Personal Project:** [www.chimptok.com](www.chimptok.com)\
+📧 **Email:** leticiagoncalves.tech@gmail.com
 ## 🌟 What I Do  
 
 - **Frontend Fun:** Crafting sleek Single Page Applications with Vue.js and React.  
@@ -20,14 +12,9 @@ Hi, I’m Letícia Gonçalves! A software developer with a passion for building 
 
 ## 🛠 Skills & Tools  
 
-**Languages & Frameworks:**  
-- HTML | CSS | JavaScript | React | Vue.js | Node.js | C#  | Styled Components  
-
-**Design & Prototyping:**  
-- Figma | Illustrator
-  
-**Databases & DevOps:**  
-- Prisma | MySQL | Railway | Cloudflare  
+**Languages & Frameworks:** HTML | CSS | JavaScript | React | Vue.js | Node.js | C#  | Styled Components  
+**Design & Prototyping:** Figma | Illustrator
+**Databases & DevOps:**  Prisma | MySQL | Railway | Cloudflare  
 
 ---
 
@@ -52,9 +39,4 @@ Hi, I’m Letícia Gonçalves! A software developer with a passion for building 
 - **Web Repo**: [Chimptok Web](https://github.com/devLeticia/chimptok-website-nextjs)
 - **Frontend App**: [Chimptok Frontend](https://github.com/devLeticia/chimptok)
 - **Backend App**: [Chimptok Backend](https://github.com/devLeticia/chimptok-server)
-  
----
-
-## 📬 Let’s Connect!  
-Got an idea or just want to chat about tech and design? Reach out!  
-📧 **leticiagoncalves.tech@gmail.com**  
+Click the links or see pinned repos bellow?
