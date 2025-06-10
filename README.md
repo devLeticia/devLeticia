@@ -4,7 +4,7 @@
 
 **Portfolio:** [https://www.leticiagoncalves.dev](https://www.leticiagoncalves.dev)\
 **Personal Project:** [https://www.chimptok.com](https://www.chimptok.com)\
-**Email:** leticiagoncalves.tech@gmail.com
+**Email:** leticiagoncalves.tech@gmail.com\
 **Linkedin:** [[https://www.chimptok.com](https://www.linkedin.com/in/leticia-s-goncalves/)]([https://www.chimptok.com](https://www.linkedin.com/in/leticia-s-goncalves/))\
 
 
